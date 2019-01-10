@@ -1,0 +1,20 @@
+#dropdown-menu-NaN .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-NaN .nav .link,
+#dropdown-menu-NaN .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-NaN .navbar,
+#dropdown-menu-NaN .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-NaN .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-NaN .dropdown-menu a:hover,
+#dropdown-menu-NaN .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-NaN .navbar-toggler {
+  color: #ffffff;
+}
